@@ -1,2 +1,2 @@
-# lumen-vue
-lumen framework + vueJs
+# vue-on-lumen
+vueJS on the lumen framework
